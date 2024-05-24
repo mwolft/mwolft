@@ -1,23 +1,13 @@
-# Sergio Arias Fernández
-## 🧑🏻 About me
-Sergio Arias Fernández
+# 🧑🏻 Sergio Arias Fernández
+<b>Full Stack Developer
 
-Full Stack Developer
+🚩 Ciudad Real, Castilla La Mancha, Spain.</b> 
 
-Ciudad Real, Castilla La Mancha, Spain.
+En el diseño web, trabajo con HTML/CSS para crear sitios atractivos, JavaScript para añadir interactividad y React.js para construir interfaces de usuario modernas. Me esfuerzo por crear experiencias digitales intuitivas y accesibles.
 
-## Tecnologías y herramientas
-### Lenguajes de Programación: 
-- HTML
+El diseño 3D es otra de mis grandes pasiones. Utilizo herramientas como Inventor y 3ds Max para modelar y texturizar objetos, creando mundos tridimensionales realistas o imaginativos.
 
-- CSS
+También tengo conocimientos de Python, lo que me permite automatizar tareas y desarrollar soluciones backend eficientes, complementando mis habilidades de desarrollo frontend.
 
-- Python
-
-### Tecnologías y Frameworks: 
-- Bootstrap
-
-- React.js
-
-- GitHub.
+Valoro la combinación de estética y funcionalidad en cada proyecto. Con una constante sed de aprendizaje y una dedicación a la excelencia, siempre busco mejorar mis habilidades y enfrentar nuevos desafíos."
 
