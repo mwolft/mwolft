@@ -1,5 +1,5 @@
 # 🧑🏻 Sergio Arias Fernández
-**Full Stack Developer Junior**
+**Full Stack Developer**
 
 🚩 **Ciudad Real, Castilla La Mancha, Spain.**
 
